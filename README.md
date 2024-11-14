@@ -20,7 +20,17 @@ Los requisitos que se necesitan para la ejecución de nuestro software son míni
 # EJECUCIÓN DEL SOFTWARE
 Una vez actualizado el JDK, procederemos a la instalación del software para la venta de las entradas.
   * El primer paso para poder ejecutar el software es la descarga de la carpeta comprimida en .zip, la cuál contiene dos archivos:
+![Captura de pantalla 2024-11-14 163926](https://github.com/user-attachments/assets/9487d153-0850-46de-b117-987da0a8ad0c)
     - El archivo .jar que es el propio programa creado en Intellij Idea.
+![Captura de pantalla 2024-11-14 163907](https://github.com/user-attachments/assets/0b3316ea-25f3-40e4-93f3-ada8e308bd11)
     - Un archivo .bat que es el ejecutable que se necesita para que nuestro programa se ejecute en la consola.
+![Captura de pantalla 2024-11-14 163859](https://github.com/user-attachments/assets/2ed11838-1c46-4802-97d1-e4d92b9d6865)
+  * El segundo paso a seguir es abrir el archivo .bat el cuál permitirá ejecutar nuestro programa.
+    - ¡¡ADVERTENCIA!! Al abrir el archivo .bat saldrá que Window Defender ha bloqueado la ejecución del programa debido a que es un editor desconocido pero solo debes clickear en "Más información" y se te abrirá otro botón llamado "Ejecutar de todas formas" en el que deberás hacer click y el software se ejecutará con total normalidad.
+![Captura de pantalla 2024-11-14 164315](https://github.com/user-attachments/assets/7a9b09eb-8e3a-4aad-8f8a-07d5039bc604)
+![Captura de pantalla 2024-11-14 164325](https://github.com/user-attachments/assets/732da5bd-d25b-4831-bf3e-51ff50fa7964)
+
+
+
 
 
